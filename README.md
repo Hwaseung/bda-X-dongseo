@@ -5,6 +5,8 @@
 
 ### 1. 환경 정보
 - 운영 체제 (OS)
+  - Windows 사양 : Windows 11 PRO
+  - 프로세서 : 12th Gen Intel(R) Core(TM) i9-12900H
 - Python 버전
 - CPU 아키텍처
 
